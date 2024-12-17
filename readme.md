@@ -1,6 +1,6 @@
-# DS24 Open Lab | Hands-On with Building a Custom Search Engine with Google Programmable Search API
+# DS24 Open Lab | Building a Custom Search Engine with Google Programmable Search API
 
-This repository contains the lab for demonstrating Hands-On with Building a Custom Search Engine with Google Programmable Search API. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating Hands-On with Building a Custom Search Engine with Google Programmable Search API. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
@@ -14,15 +14,15 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
-• Access Google AI Studio through https://programmablesearchengine.google.com/
+• Access Google AI Studio - https://programmablesearchengine.google.com/
+
+• Install NodeJS - https://nodejs.org/
 
 ## Repository Contents
 
 The repository contains detailed documentation and steps for understanding and conquering this lab.
 
 • How To Documents for self-paced Labs
-
-• Final Application to download and test
 
 ## Lab Contributors
 
